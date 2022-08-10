@@ -16,7 +16,7 @@ Projeto de um ToDo List feito com o objetivo de facilitar o seu dia dia.
 - `Funcionalidade 1`: fazer anotações
 - `Funcionalidade 2`: deletar anotações
 - `Funcionalidade 3`: Função Clear
-- `Funcionalidade 4`:Persistir os dados no storage de forma que ao atualizar a página os dados não sejam perdidos
+- `Funcionalidade 4`:Persistir os dados no storage 
 
 
 
